@@ -4,10 +4,6 @@
   </sub>
 </div>
 
-<p align="center">
-  <img src="logo/logo.png" alt="Blu 徽标" width="120" style="vertical-align: middle;" />
-</p>
-
 <h1 align="center">
   Blu - 为您缺失的工具注入动力
 </h1>
