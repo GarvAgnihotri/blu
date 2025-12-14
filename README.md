@@ -1,14 +1,16 @@
+<div align="center">
+  <sub>
+    English | <a href="#" target="_blank">Español</a> | <a href="#" target="_blank">简体中文</a>
+  </sub>
+</div>
+
 <p align="center">
- <img src="logo/logo.png" alt="Blu logo" width="100" style="vertical-align: middle;" />
+  <img src="logo/logo.png" alt="Blu logo" width="120" style="vertical-align: middle;" />
 </p>
 
 <h1 align="center">
-  Blu - We did it!!
+  Blu - Power up your tools with the one they've been missing.
 </h1>
-
-<p align="center">
- Blu — Power up your tools with the one they've been missing.
-</p>
 
 <p align="center">
   <a href="https://github.com/GarvAgnihotri/blu">
@@ -29,74 +31,187 @@
   <img src="https://img.shields.io/visual-studio-marketplace/r/Garv.blu?style=flat-square" />
 </p>
 
+<div align="center">
+  <table>
+    <tbody>
+      <td align="center">
+        <a href="https://marketplace.visualstudio.com/items?itemName=Garv.blu" target="_blank"><strong>Download on VS Marketplace</strong></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/GarvAgnihotri/blu/discussions" target="_blank"><strong>Feature Requests</strong></a>
+      </td>
+    </tbody>
+  </table>
+</div>
+
 ---
 
-## Overview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/demo-placeholder-1" width="100%" alt="Blu demo showing goal-driven workflow" />
+  <em>Demo: Blu planning and executing a complex refactoring task</em>
+</p>
 
-**Blu** is an AI-powered VS Code extension designed to help developers work from goals instead of prompts.  
-It understands your codebase, plans changes step by step, and executes them only after your approval.
+## What is Blu?
 
-Blu keeps you in control while accelerating complex development workflows.
+**Blu** is an AI-powered VS Code extension that helps you work from **goals instead of prompts**. Describe what you want to achieve, and Blu will analyze your codebase, plan the necessary changes, and execute them step-by-step—always with your approval.
+
+Built on the powerful foundation of Cline, Blu extends the concept with enhanced goal-oriented workflows and a focus on developer collaboration.
 
 ---
 
-## Features
+## Key Features
 
-- **Goal-driven workflows**  
-  Describe what you want to achieve and let Blu plan the steps required to get there.
+### Goal-Driven Development
+<img align="right" width="350" src="https://github.com/user-attachments/assets/sidebar-demo-placeholder">
 
-- **Codebase understanding**  
-  Blu analyzes your project structure and files to generate relevant, context-aware suggestions.
+**Work from intent, not implementation.** Simply describe your goal—"add user authentication," "refactor this component," or "fix the mobile layout"—and Blu will create a detailed plan before making any changes.
 
-- **Human-in-the-loop execution**  
-  Review plans, diffs, and commands before anything is executed.
+- **Intelligent task breakdown**: Blu analyzes your request and breaks it into logical steps
+- **Context-aware planning**: Understands your project structure and dependencies
+- **Approval workflow**: Review and approve each step before execution
 
-- **File creation and editing**  
-  Create, refactor, and improve files with clear diff views and full transparency.
+> [!TIP]
+> Open Blu in the sidebar (View → Command Palette → "Blu: Open Sidebar") to work side-by-side with your code. This gives you full visibility into Blu's planning and execution process.
 
-- **Terminal integration**  
-  Run commands directly in your terminal and monitor output as Blu works.
+<!-- Clear float -->
+<div style="clear: both;"></div>
 
-- **Multi-model support**  
-  Works with leading AI providers including OpenAI, Anthropic, Google Gemini, OpenRouter, and local models.
+### Deep Codebase Understanding
+<img align="left" width="360" src="https://github.com/user-attachments/assets/code-analysis-placeholder">
 
-- **Extensible via MCP**  
-  Extend Blu using the Model Context Protocol to connect APIs, databases, and custom tools.
+Blu doesn't just read files—it understands your project. Through AST analysis, dependency mapping, and semantic search, Blu gets up to speed quickly, even in large, complex codebases.
+
+- **AST parsing**: Understands code structure and relationships
+- **Smart context management**: Only adds relevant files to context
+- **Pattern recognition**: Identifies common patterns and best practices
+- **Cross-file awareness**: Understands how changes affect the entire codebase
+
+<!-- Clear float -->
+<div style="clear: both;"></div>
+
+### Human-in-the-Loop Execution
+<img align="right" width="340" src="https://github.com/user-attachments/assets/approval-workflow-placeholder">
+
+**You're always in control.** Blu presents a clear plan and shows diffs before making any changes. Approve, modify, or reject each step as Blu works through your task.
+
+- **Interactive diff views**: See exactly what will change
+- **Step-by-step approval**: Control the pace of execution
+- **Real-time feedback**: Provide input as Blu works
+- **Undo/Redo**: Full control over every modification
+
+<!-- Clear float -->
+<div style="clear: both;"></div>
+
+### Powerful Tool Integration
+
+#### File Creation & Editing
+Blu can create new files, modify existing ones, and even refactor across multiple files while maintaining code quality and consistency.
+
+#### Terminal Integration
+Execute commands directly in your terminal with full output monitoring. Blu can:
+- Install dependencies and run build scripts
+- Start development servers
+- Run tests and migrations
+- Deploy applications
+
+#### Browser Automation
+For web development tasks, Blu can:
+- Launch your application in a browser
+- Interact with UI elements
+- Capture screenshots and console logs
+- Debug visual and runtime issues
+
+### Multi-Model Support
+<img align="left" width="370" src="https://github.com/user-attachments/assets/model-support-placeholder">
+
+Use your preferred AI provider:
+- **OpenAI**
+- **Anthropic**
+- **Google Gemini**
+- **OpenRouter**
+- **And Even More**
+
+Cost tracking and token usage monitoring help you stay within budget.
+
+<!-- Clear float -->
+<div style="clear: both;"></div>
+
+### Extensible via MCP
+<img align="right" width="350" src="https://github.com/user-attachments/assets/mcp-tools-placeholder">
+
+Extend Blu's capabilities with the **Model Context Protocol**. Create custom tools for your specific workflow:
+
+- **"Add a tool that fetches Jira tickets"** – Work directly from requirements
+- **"Add a tool that checks AWS status"** – Monitor infrastructure
+- **"Add a tool that queries your database"** – Get real data insights
+- **"Add a tool that integrates with your API"** – Connect to internal services
+
+Blu can even help you create and install these tools automatically.
+
+<!-- Clear float -->
+<div style="clear: both;"></div>
+
+### Context-Aware Assistance
+<img align="left" width="360" src="https://github.com/user-attachments/assets/context-menu-placeholder">
+
+Add relevant context with simple commands:
+
+- **`@ Add Context`** – Include a specific file's contents
+
+Type to search and quickly add what Blu needs to understand your task.
+
+<!-- Clear float -->
+<div style="clear: both;"></div>
+
+### Checkpoints & Version Control
+<img align="right" width="340" src="https://github.com/user-attachments/assets/checkpoints-placeholder">
+
+**Experiment safely.** Blu creates checkpoints as it works, allowing you to:
+- **Compare** any checkpoint with current state
+- **Restore** to previous points in time
+- **Branch** different approaches
+- **Merge** successful experiments
+
+All changes are tracked in VS Code's Timeline for easy rollback.
+
+<!-- Clear float -->
+<div style="clear: both;"></div>
 
 ---
 
 ## Getting Started
 
-1. Install Blu from the Visual Studio Code Marketplace.
-2. Open the Blu sidebar from the Activity Bar.
-3. Start a new task and describe your goal.
-4. Review Blu’s plan and approve changes as they are proposed.
-
-Blu includes an in-editor walkthrough to help you get started quickly.
-
----
-
-## Design Philosophy
-
-Blu is built around **clarity, safety, and collaboration**.
-
-Instead of making hidden changes, Blu shows you exactly what it plans to do and waits for your approval at every step.  
-You stay in control while Blu handles the heavy lifting.
+### Quick Installation
+1. **Install from VS Code Marketplace**: Search for "Blu" or use [this direct link](https://marketplace.visualstudio.com/items?itemName=Garv.blu)
+2. **Open Blu**: Click the Blu icon in the Activity Bar or run `Blu: Open Sidebar` from the Command Palette
+3. **Configure your AI provider**: Add your API key in settings (Ctrl+, → Extensions → Blu)
+4. **Start your first task**: Type a goal and let Blu plan the execution
 
 ---
 
-## Attribution
+## Architecture & Philosophy
 
-Blu is based on and derived from the **Cline** project.
+Blu is built on three core principles:
 
-Cline is licensed under the Apache License, Version 2.0.  
-Original repository: https://github.com/cline/cline
+1. **Clarity First** – No hidden changes, no magic. Everything is transparent and explainable.
+2. **Developer Control** – You approve every change. Blu suggests, you decide.
+3. **Collaborative Intelligence** – Blu amplifies your abilities, doesn't replace your judgment.
 
-All additional features and modifications in Blu are independently developed.
+### How Blu Works
+1. **Goal Analysis** – Understands your intent and requirements
+2. **Context Gathering** – Analyzes relevant parts of your codebase
+3. **Plan Generation** – Creates a step-by-step execution plan
+4. **Interactive Execution** – Executes each step with your approval
+5. **Validation** – Tests and verifies the results
 
 ---
 
-## License
+## Contributing
 
-Licensed under the **Apache License, Version 2.0**.  
-See the [LICENSE](./LICENSE) file for details.
+We welcome contributions! Here's how to get started:
+
+1. **Fork the repository** and clone it locally
+2. **Set up development environment**:
+   ```bash
+   npm install
+   npm run compile
