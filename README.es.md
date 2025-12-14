@@ -4,10 +4,6 @@
   </sub>
 </div>
 
-<p align="center">
-  <img src="logo/logo.png" alt="Logo de Blu" width="120" style="vertical-align: middle;" />
-</p>
-
 <h1 align="center">
   Blu - Potencia tus herramientas con la que les ha estado faltando.
 </h1>
