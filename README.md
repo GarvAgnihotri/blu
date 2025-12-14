@@ -1,4 +1,10 @@
-<h1 align="center">Blu - We did it!!</h1>
+<p align="center">
+ <img src="logo/icon.png" alt="Blu logo" width="100" style="vertical-align: middle;" />
+</p>
+
+<h1 align="center">
+  Blu - We did it!!
+</h1>
 
 <p align="center">
  Blu — Power up your tools with the one they've been missing.
