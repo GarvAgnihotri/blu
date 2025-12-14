@@ -4,10 +4,6 @@
   </sub>
 </div>
 
-<p align="center">
-  <img src="logo/logo.png" alt="Blu logo" width="120" style="vertical-align: middle;" />
-</p>
-
 <h1 align="center">
   Blu - Power up your tools with the one they've been missing.
 </h1>
