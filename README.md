@@ -1,5 +1,5 @@
 <p align="center">
- <img src="logo/icon.png" alt="Blu logo" width="100" style="vertical-align: middle;" />
+ <img src="logo/logo.png" alt="Blu logo" width="100" style="vertical-align: middle;" />
 </p>
 
 <h1 align="center">
