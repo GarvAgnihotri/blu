@@ -203,3 +203,4 @@ Blu se construye sobre tres principios fundamentales:
    ```bash
    npm install
    npm run compile
+   ```
