@@ -43,9 +43,9 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/demo-placeholder-1" width="100%" alt="Blu demo showing goal-driven workflow" />
-  <em>Demo: Blu planning and executing a complex refactoring task</em>
+  <img src="logo/main.gif" width="1000"/>
 </p>
+
 
 ## What is Blu?
 
@@ -58,7 +58,6 @@ Built on the powerful foundation of Cline, Blu extends the concept with enhanced
 ## Key Features
 
 ### Goal-Driven Development
-<img align="right" width="350" src="https://github.com/user-attachments/assets/sidebar-demo-placeholder">
 
 **Work from intent, not implementation.** Simply describe your goal—"add user authentication," "refactor this component," or "fix the mobile layout"—and Blu will create a detailed plan before making any changes.
 
@@ -73,8 +72,6 @@ Built on the powerful foundation of Cline, Blu extends the concept with enhanced
 <div style="clear: both;"></div>
 
 ### Deep Codebase Understanding
-<img align="left" width="360" src="https://github.com/user-attachments/assets/code-analysis-placeholder">
-
 Blu doesn't just read files—it understands your project. Through AST analysis, dependency mapping, and semantic search, Blu gets up to speed quickly, even in large, complex codebases.
 
 - **AST parsing**: Understands code structure and relationships
@@ -86,7 +83,6 @@ Blu doesn't just read files—it understands your project. Through AST analysis,
 <div style="clear: both;"></div>
 
 ### Human-in-the-Loop Execution
-<img align="right" width="340" src="https://github.com/user-attachments/assets/approval-workflow-placeholder">
 
 **You're always in control.** Blu presents a clear plan and shows diffs before making any changes. Approve, modify, or reject each step as Blu works through your task.
 
@@ -118,7 +114,6 @@ For web development tasks, Blu can:
 - Debug visual and runtime issues
 
 ### Multi-Model Support
-<img align="left" width="370" src="https://github.com/user-attachments/assets/model-support-placeholder">
 
 Use your preferred AI provider:
 - **OpenAI**
@@ -133,7 +128,6 @@ Cost tracking and token usage monitoring help you stay within budget.
 <div style="clear: both;"></div>
 
 ### Extensible via MCP
-<img align="right" width="350" src="https://github.com/user-attachments/assets/mcp-tools-placeholder">
 
 Extend Blu's capabilities with the **Model Context Protocol**. Create custom tools for your specific workflow:
 
@@ -148,8 +142,6 @@ Blu can even help you create and install these tools automatically.
 <div style="clear: both;"></div>
 
 ### Context-Aware Assistance
-<img align="left" width="360" src="https://github.com/user-attachments/assets/context-menu-placeholder">
-
 Add relevant context with simple commands:
 
 - **`@ Add Context`** – Include a specific file's contents
@@ -160,7 +152,6 @@ Type to search and quickly add what Blu needs to understand your task.
 <div style="clear: both;"></div>
 
 ### Checkpoints & Version Control
-<img align="right" width="340" src="https://github.com/user-attachments/assets/checkpoints-placeholder">
 
 **Experiment safely.** Blu creates checkpoints as it works, allowing you to:
 - **Compare** any checkpoint with current state
