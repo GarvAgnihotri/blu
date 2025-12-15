@@ -202,3 +202,4 @@ We welcome contributions! Here's how to get started:
    ```bash
    npm install
    npm run compile
+   ```
