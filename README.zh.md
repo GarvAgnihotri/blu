@@ -43,8 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/demo-placeholder-1" width="100%" alt="Blu 演示展示目标驱动工作流程" />
-  <em>演示：Blu 规划并执行复杂的重构任务</em>
+  <img src="logo/main.gif" width="1000"/>
 </p>
 
 ## 什么是 Blu？
@@ -58,7 +57,6 @@ Blu 建立在强大的 Cline 基础之上，通过增强的目标导向工作流
 ## 主要功能
 
 ### 目标驱动开发
-<img align="right" width="350" src="https://github.com/user-attachments/assets/sidebar-demo-placeholder">
 
 **从意图而非实现出发工作。** 只需描述您的目标——“添加用户身份验证”、“重构此组件”或“修复移动端布局”——Blu 将在进行任何更改之前创建详细计划。
 
@@ -73,7 +71,6 @@ Blu 建立在强大的 Cline 基础之上，通过增强的目标导向工作流
 <div style="clear: both;"></div>
 
 ### 深度代码库理解
-<img align="left" width="360" src="https://github.com/user-attachments/assets/code-analysis-placeholder">
 
 Blu 不仅读取文件——它理解您的项目。通过 AST 分析、依赖映射和语义搜索，Blu 能够快速上手，即使在大型复杂代码库中也是如此。
 
@@ -86,7 +83,6 @@ Blu 不仅读取文件——它理解您的项目。通过 AST 分析、依赖�
 <div style="clear: both;"></div>
 
 ### 人在回路执行
-<img align="right" width="340" src="https://github.com/user-attachments/assets/approval-workflow-placeholder">
 
 **您始终掌控全局。** Blu 在做出任何更改之前会呈现清晰的计划并显示差异。在 Blu 处理您的任务时，批准、修改或拒绝每个步骤。
 
@@ -118,7 +114,6 @@ Blu 可以创建新文件、修改现有文件，甚至跨多个文件进行重�
 - 调试视觉和运行时问题
 
 ### 多模型支持
-<img align="left" width="370" src="https://github.com/user-attachments/assets/model-support-placeholder">
 
 使用您偏好的 AI 提供商：
 - **OpenAI**
@@ -133,7 +128,6 @@ Blu 可以创建新文件、修改现有文件，甚至跨多个文件进行重�
 <div style="clear: both;"></div>
 
 ### 通过 MCP 扩展
-<img align="right" width="350" src="https://github.com/user-attachments/assets/mcp-tools-placeholder">
 
 使用**模型上下文协议**扩展 Blu 的功能。为您的特定工作流程创建自定义工具：
 
@@ -148,7 +142,6 @@ Blu 甚至可以自动帮助您创建和安装这些工具。
 <div style="clear: both;"></div>
 
 ### 上下文感知辅助
-<img align="left" width="360" src="https://github.com/user-attachments/assets/context-menu-placeholder">
 
 使用简单命令添加上下文：
 
@@ -160,7 +153,6 @@ Blu 甚至可以自动帮助您创建和安装这些工具。
 <div style="clear: both;"></div>
 
 ### 检查点与版本控制
-<img align="right" width="340" src="https://github.com/user-attachments/assets/checkpoints-placeholder">
 
 **安全地进行实验。** Blu 在工作时创建检查点，允许您：
 - **比较**任何检查点与当前状态
