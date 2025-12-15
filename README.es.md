@@ -43,8 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/demo-placeholder-1" width="100%" alt="Demo de Blu mostrando flujo de trabajo orientado a objetivos" />
-  <em>Demo: Blu planificando y ejecutando una tarea compleja de refactorización</em>
+  <img src="logo/main.gif" width="1000"/>
 </p>
 
 ## ¿Qué es Blu?
@@ -58,7 +57,6 @@ Construido sobre la poderosa base de Cline, Blu extiende el concepto con flujos 
 ## Características Principales
 
 ### Desarrollo Orientado a Objetivos
-<img align="right" width="350" src="https://github.com/user-attachments/assets/sidebar-demo-placeholder">
 
 **Trabaja desde la intención, no la implementación.** Simplemente describe tu objetivo—"agregar autenticación de usuario," "refactorizar este componente," o "arreglar el diseño móvil"—y Blu creará un plan detallado antes de realizar cualquier cambio.
 
@@ -73,7 +71,6 @@ Construido sobre la poderosa base de Cline, Blu extiende el concepto con flujos 
 <div style="clear: both;"></div>
 
 ### Comprensión Profunda del Código
-<img align="left" width="360" src="https://github.com/user-attachments/assets/code-analysis-placeholder">
 
 Blu no solo lee archivos—entiende tu proyecto. A través del análisis AST, mapeo de dependencias y búsqueda semántica, Blu se pone al día rápidamente, incluso en bases de código grandes y complejas.
 
@@ -86,7 +83,6 @@ Blu no solo lee archivos—entiende tu proyecto. A través del análisis AST, ma
 <div style="clear: both;"></div>
 
 ### Ejecución con Intervención Humana
-<img align="right" width="340" src="https://github.com/user-attachments/assets/approval-workflow-placeholder">
 
 **Siempre tienes el control.** Blu presenta un plan claro y muestra diferencias antes de realizar cualquier cambio. Aprueba, modifica o rechaza cada paso mientras Blu trabaja en tu tarea.
 
@@ -118,7 +114,6 @@ Para tareas de desarrollo web, Blu puede:
 - Depurar problemas visuales y de tiempo de ejecución
 
 ### Soporte Multi-Modelo
-<img align="left" width="370" src="https://github.com/user-attachments/assets/model-support-placeholder">
 
 Usa tu proveedor de IA preferido:
 - **OpenAI**
@@ -133,7 +128,6 @@ El seguimiento de costos y monitoreo del uso de tokens te ayuda a mantenerte den
 <div style="clear: both;"></div>
 
 ### Extensible a través de MCP
-<img align="right" width="350" src="https://github.com/user-attachments/assets/mcp-tools-placeholder">
 
 Extiende las capacidades de Blu con el **Model Context Protocol**. Crea herramientas personalizadas para tu flujo de trabajo específico:
 
@@ -148,7 +142,6 @@ Blu incluso puede ayudarte a crear e instalar estas herramientas automáticament
 <div style="clear: both;"></div>
 
 ### Asistencia Consciente del Contexto
-<img align="left" width="360" src="https://github.com/user-attachments/assets/context-menu-placeholder">
 
 Agrega contexto relevante con comandos simples:
 
@@ -160,7 +153,6 @@ Escribe para buscar y agregar rápidamente lo que Blu necesita para entender tu 
 <div style="clear: both;"></div>
 
 ### Puntos de Control y Control de Versiones
-<img align="right" width="340" src="https://github.com/user-attachments/assets/checkpoints-placeholder">
 
 **Experimenta de forma segura.** Blu crea puntos de control mientras trabaja, permitiéndote:
 - **Comparar** cualquier punto de control con el estado actual
