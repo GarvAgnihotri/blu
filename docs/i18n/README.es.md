@@ -1,6 +1,6 @@
 <div align="center">
   <sub>
-    <a href="README.md">English</a> | Español | <a href="README.zh.md">简体中文</a>
+    <a href="README.md">English</a> | Español | <a href="docs/i18n/README.zh.md">简体中文</a>
   </sub>
 </div>
 
