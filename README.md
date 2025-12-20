@@ -109,13 +109,16 @@ For web development tasks, Blu can:
 ### Multi-Model Support
 
 Use your preferred AI provider:
-- **OpenAI**
-- **Anthropic**
-- **Google Gemini**
-- **OpenRouter**
-- **And Even More**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-7B3FE4?style=flat-square&logo=openauth&logoColor=white" />
+</p>
 
 Cost tracking and token usage monitoring help you stay within budget.
+
 
 <!-- Clear float -->
 <div style="clear: both;"></div>
