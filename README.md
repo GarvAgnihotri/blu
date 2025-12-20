@@ -11,22 +11,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/GarvAgnihotri/blu">
-    <img src="https://img.shields.io/github/stars/GarvAgnihotri/blu?style=flat-square" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/GarvAgnihotri/blu/issues">
-    <img src="https://img.shields.io/github/issues/GarvAgnihotri/blu?style=flat-square" alt="GitHub issues" />
-  </a>
-  <a href="https://github.com/GarvAgnihotri/blu/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/GarvAgnihotri/blu?style=flat-square" alt="License" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Garv.blu">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/Garv.blu?style=flat-square" alt="VS Code Marketplace version" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Garv.blu">
-    <img src="https://img.shields.io/visual-studio-marketplace/i/Garv.blu?style=flat-square" alt="VS Code installs" />
-  </a>
-  <img src="https://img.shields.io/visual-studio-marketplace/r/Garv.blu?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/GarvAgnihotri/blu?style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/issues/GarvAgnihotri/blu?style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/license/GarvAgnihotri/blu?style=flat-square&color=blue" />
+<img src="https://img.shields.io/visual-studio-marketplace/v/Garv.blu?style=flat-square&logo=visualstudiocode&color=007ACC" />
+<img src="https://img.shields.io/visual-studio-marketplace/i/Garv.blu?style=flat-square&color=blueviolet" />
+<img src="https://img.shields.io/visual-studio-marketplace/r/Garv.blu?style=flat-square&color=yellow" />
+
 </p>
 
 <div align="center">
