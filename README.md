@@ -115,6 +115,8 @@ Use your preferred AI provider:
   <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenRouter-7B3FE4?style=flat-square&logo=openauth&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  
 </p>
 
 Cost tracking and token usage monitoring help you stay within budget.
