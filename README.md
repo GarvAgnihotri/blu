@@ -36,11 +36,16 @@
 ---
 
 <p align="center">
-  <img src="logo/main.gif" width="1000"/>
+  <img src="logo/hero-banner.png" width="1000"/>
 </p>
 
 
 ## What is Blu?
+
+<p align="center">
+  <img src="logo/main.gif" width="1000"/>
+</p>
+
 
 **Blu** is an AI-powered VS Code extension that helps you work from **goals instead of prompts**. Describe what you want to achieve, and Blu will analyze your codebase, plan the necessary changes, and execute them step-by-step—always with your approval.
 
@@ -183,6 +188,12 @@ Blu is built on three core principles:
 3. **Collaborative Intelligence** – Blu amplifies your abilities, doesn't replace your judgment.
 
 ### How Blu Works
+
+<p align="center">
+  <img src="logo/concept-mascot.png" width="1000"/>
+</p>
+
+
 1. **Goal Analysis** – Understands your intent and requirements
 2. **Context Gathering** – Analyzes relevant parts of your codebase
 3. **Plan Generation** – Creates a step-by-step execution plan
