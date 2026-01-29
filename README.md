@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/GarvAgnihotri/blu?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/stars/Get-Blu/blu?style=flat-square&logo=github" />
 <img src="https://img.shields.io/github/issues/GarvAgnihotri/blu?style=flat-square&logo=github" />
 <img src="https://img.shields.io/github/license/GarvAgnihotri/blu?style=flat-square&color=blue" />
 <img src="https://img.shields.io/visual-studio-marketplace/v/Garv.blu?style=flat-square&logo=visualstudiocode&color=007ACC" />
