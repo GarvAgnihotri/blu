@@ -27,7 +27,7 @@
         <a href="https://marketplace.visualstudio.com/items?itemName=Garv.blu" target="_blank"><strong>Download on VS Marketplace</strong></a>
       </td>
       <td align="center">
-        <a href="https://github.com/GarvAgnihotri/blu/discussions" target="_blank"><strong>Feature Requests</strong></a>
+        <a href="https://github.com/Get-Blu/blu/discussions" target="_blank"><strong>Feature Requests</strong></a>
       </td>
     </tbody>
   </table>
